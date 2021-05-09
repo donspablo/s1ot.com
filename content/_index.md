@@ -1,5 +1,5 @@
 ---
-title: 's1ot.com: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: 's1ot.com: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "s1ot.com is under construction."
 ---
 
